@@ -21,7 +21,7 @@ Este repositorio contiene configuraciones de Docker Compose para levantar instan
 1. **Clona este Repositorio:**
 
    ```bash
-   git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/NicoDQ/sonarqube-docker.git)
+   git clone https://github.com/NicoDQ/sonarqube-docker.git
    cd sonarqube-docker
   
 2. **Levanta la Instancia Deseada:**
